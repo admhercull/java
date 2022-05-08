@@ -3,5 +3,5 @@ I use this repo to introduce newbies to some basic java OOP concepts through few
 - Java class and object
 - Java method
 - Access modifiers (public, protected, private, default)
-- Constructors
 - Wrappers
+- Constructors
